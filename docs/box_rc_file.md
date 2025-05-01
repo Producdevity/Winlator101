@@ -108,4 +108,4 @@ An `.rcp` file is a JSON object with the following structure:
 }
 ```
 
-[TODO] Add examples with screen captures of Winlator
+[How to](/docs/box_rc_file__how_to.md)
